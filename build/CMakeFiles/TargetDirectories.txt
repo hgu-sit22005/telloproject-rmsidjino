@@ -1,0 +1,3 @@
+/data/telloproject-rmsidjino/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-rmsidjino/build/CMakeFiles/TelloPro.dir
+/data/telloproject-rmsidjino/build/CMakeFiles/edit_cache.dir
